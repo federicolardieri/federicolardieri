@@ -22,7 +22,8 @@ I enjoy solving problems, collaborating in teams, and turning ideas into functio
 ---
 
 ### 💼 Work Experience
-- Barista & Waiter (current)  
+- Web Developer Full stack & AI Automation Specialist
+- Barista & Waiter
 - Call Center Operator  
 - Retail Sales Assistant  
 - Kitchen Assistant  
