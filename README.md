@@ -18,7 +18,6 @@ I enjoy solving problems, collaborating in teams, and turning ideas into functio
 
 ### 🌟 Key Projects
 - **E-Commerce Web App (AuLab Final Project)** – Full-featured online store built with Laravel, Livewire, MySQL, and Bootstrap  
-- **AI Social Media Automation** – Tool that generates and schedules posts automatically on Facebook and Instagram using Python and OpenAI API
 
 ---
 
