@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Federico Lardieri
 
-💻 Full-Stack Developer | Laravel & AI Automation | Coding AI with Python | Web Apps 
+💻 Full-Stack Developer | AI Automation | Coding AI  | Web Apps 
 
 I am a motivated and fast-learning developer passionate about building **modern web applications** and **intelligent automation tools**.  
 I enjoy solving problems, collaborating in teams, and turning ideas into functional, scalable applications.
