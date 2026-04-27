@@ -8,15 +8,17 @@ I enjoy solving problems, collaborating in teams, and turning ideas into functio
 ---
 
 ### 🧠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React 
 - **Backend:** PHP, Laravel, Livewire  
 - **Databases:** MySQL  
-- **AI & Automation:** Python, OpenAI API, n8n, REST APIs  
+- **AI & Automation:** Python, OpenAI API, n8n, REST APIs, Claude Code, Claude API, VAPI
 - **Tools:** Git, Composer, Artisan, Project Deployment  
 
 ---
 
 ### 🌟 Key Projects
+- **Preventivo Veloce** – Saas
+- **Play Innovation Group** - Website  
 - **E-Commerce Web App (AuLab Final Project)** – Full-featured online store built with Laravel, Livewire, MySQL, and Bootstrap  
 
 ---
@@ -24,9 +26,9 @@ I enjoy solving problems, collaborating in teams, and turning ideas into functio
 ### 💼 Work Experience
 - Web Developer Full stack & AI Automation Specialist
 - Barista & Waiter
-- Call Center Operator  
-- Retail Sales Assistant  
-- Kitchen Assistant  
+
+
+
 
 ---
 
