@@ -1,66 +1,183 @@
 # 👋 Hi, I'm Federico Lardieri
 
-💻 Full-Stack Developer | AI Automation | Coding AI  | Web Apps 
+🚀 AI Automation Specialist | Full-Stack Web Developer | SaaS Builder
 
-I am a motivated and fast-learning developer passionate about building **modern web applications** and **intelligent automation tools**.  
-I enjoy solving problems, collaborating in teams, and turning ideas into functional, scalable applications.
+I build modern web applications, AI-powered workflows, and automation systems designed to reduce manual work, improve operations, and help businesses scale faster.
 
----
-
-### 🧠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React 
-- **Backend:** PHP, Laravel, Livewire  
-- **Databases:** MySQL  
-- **AI & Automation:** Python, OpenAI API, n8n, REST APIs, Claude Code, Claude API, VAPI
-- **Tools:** Git, Composer, Artisan, Project Deployment  
+Currently focused on:
+- AI automations for businesses
+- SaaS development
+- Workflow optimization
+- CRM & lead management systems
+- AI agents and integrations
 
 ---
 
-### 🌟 Key Projects
-- **Preventivo Veloce** – Saas
-- **Play Innovation Group** - Website  
-- **E-Commerce Web App (AuLab Final Project)** – Full-featured online store built with Laravel, Livewire, MySQL, and Bootstrap  
+## 💼 What I Do
+
+I help companies automate repetitive processes and improve productivity using tools like AI, APIs, and custom web platforms.
+
+### Main Areas
+- 🤖 AI Automations & Workflow Systems
+- 🌐 Full-Stack Web Development
+- 📊 CRM & Lead Management
+- 📩 Automated Email & Follow-up Systems
+- 🧠 AI Integrations (OpenAI, Claude, Gemini)
+- ⚡ Business Process Optimization
 
 ---
 
-### 💼 Work Experience
-- Web Developer Full stack & AI Automation Specialist
-- Barista & Waiter
+# 🛠 Tech Stack
 
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
 
+### Backend
+- PHP
+- Laravel
+- Livewire
+- Node.js
+- REST APIs
 
+### Database & Cloud
+- MySQL
+- Supabase
+
+### AI & Automation
+- n8n
+- OpenAI API
+- Claude API
+- Gemini API
+- VAPI
+- Webhooks
+- AI Agents
+- MCP Integrations
+
+### Tools
+- Git & GitHub
+- Vercel
+- Postman
+- Figma
+- Notion
+- Claude Code
+- Google AI Studio
+- Google Antigravity
 
 ---
 
-### 🎓 Education & Training
-- 5th year student, Applied Sciences High School  
-- **AuLab Hackademy – Full Stack Web Developer & Coding AI Specialist**  
-  Learned and applied:
-  - **Frontend:** HTML, CSS, JavaScript  
-  - **Backend:** PHP, Laravel, Livewire  
-  - **Databases:** MySQL  
-  - **AI & Automation:** Python, OpenAI API, n8n  
-  - Built real projects including web apps, automation tools, and AI integrations
-- English B2 – Cambridge ESOL & EF exchange program  
-- OpenBadges: Math Level 4, English Reading B2, English Listening B2  
+# 🚀 Featured Projects
+
+### 🧾 Preventivo Veloce — SaaS
+A SaaS platform designed to simplify quote creation and client management for businesses.
+
+Features include:
+- Fast quote generation
+- PDF export
+- Client management
+- Email automation
+- Follow-up systems
+- Authentication & dashboard
+- AI-powered workflows
 
 ---
 
-### 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/federico-lardieri-403282315/  
-- Email: federico.lardieri22@gmail.com
+### 🏟 Play Innovation Group / Edil Padel
+Management and digital development for a sports construction company specialized in:
+- Padel courts
+- Pickleball courts
+- Tennis courts
+- Multi-sport facilities
 
-<!--
-**federicolardieri/federicolardieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Activities:
+- Lead generation systems
+- CRM automation
+- Social media management
+- Website development
+- AI workflow integrations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI Email Responder PRO
+An advanced automation system that:
+- Reads incoming emails
+- Generates AI replies
+- Creates drafts or sends replies automatically
+- Logs conversations into Google Sheets
+- Sends notifications through Telegram
+
+Built with:
+- n8n
+- Gmail API
+- OpenAI / Gemini
+- Google Sheets
+
+---
+
+# 📚 Education & Training
+
+### Aulab Hackademy
+Full-Stack Web Developer & Coding AI Specialist
+
+Studied and worked with:
+- Full-stack web development
+- Databases & backend systems
+- AI integrations
+- Modern frontend frameworks
+- Automation workflows
+
+---
+# 🏆 Certifications
+
+### Claude Code 101 — Anthropic
+Completed foundational training on Claude Code and AI-assisted development workflows.  [oai_citation:0‡certificate-djm2bopsmmow-1777696341.pdf](sediment://file_000000000540720a90be51102ab5e54d)
+
+### Claude 101 — Anthropic
+Core certification focused on Claude fundamentals, prompting, and AI workflows.  [oai_citation:1‡certificate-g3q4h7trm6fe-1777691097.pdf](sediment://file_0000000057a0720a8be5f67096c00617)
+
+### Claude with the Anthropic API — Anthropic
+Certification focused on integrating Claude models using the Anthropic API for real-world AI applications and automations.  [oai_citation:2‡certificate-n77pabbujaqk-1777661816.pdf](sediment://file_000000006f64720a9f5c93e110ff8f6a)
+
+### Claude Code in Action — Anthropic
+Advanced practical certification on building real AI-powered development workflows with Claude Code.  [oai_citation:3‡certificate-fo7nqykx6fqh-1778026781.pdf](sediment://file_00000000af34720aa608af89e1e67228)
+
+### Full Stack Web Developer — Aulab Hackademy
+400-hour intensive training program covering:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Laravel Framework
+- Agile Methodologies
+
+Completed successfully on July 14, 2025.  [oai_citation:4‡ktpkx6hh_1761651343456.pdf](sediment://file_00000000915c720a9fa5b8142ad0d67e)
+
+---
+
+# 🌍 Goals
+
+Building scalable SaaS products and AI automation systems that help businesses:
+- save time
+- reduce manual work
+- improve lead management
+- increase revenue
+- automate operations
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/federico-lardieri-403282315/
+- 🌐 Website: https://fe-dev.vercel.app
+- 📧 Email: federico.lardieri22@gmail.com
+
+---
+
+> “Automation is not about replacing people.  
+> It’s about removing repetitive work so people can focus on what matters.”
