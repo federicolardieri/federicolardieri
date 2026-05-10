@@ -136,16 +136,16 @@ Studied and worked with:
 # 🏆 Certifications
 
 ### Claude Code 101 — Anthropic
-Completed foundational training on Claude Code and AI-assisted development workflows.  [oai_citation:0‡certificate-djm2bopsmmow-1777696341.pdf](sediment://file_000000000540720a90be51102ab5e54d)
+Completed foundational training on Claude Code and AI-assisted development workflows. 
 
 ### Claude 101 — Anthropic
-Core certification focused on Claude fundamentals, prompting, and AI workflows.  [oai_citation:1‡certificate-g3q4h7trm6fe-1777691097.pdf](sediment://file_0000000057a0720a8be5f67096c00617)
+Core certification focused on Claude fundamentals, prompting, and AI workflows.  
 
 ### Claude with the Anthropic API — Anthropic
-Certification focused on integrating Claude models using the Anthropic API for real-world AI applications and automations.  [oai_citation:2‡certificate-n77pabbujaqk-1777661816.pdf](sediment://file_000000006f64720a9f5c93e110ff8f6a)
+Certification focused on integrating Claude models using the Anthropic API for real-world AI applications and automations. 
 
 ### Claude Code in Action — Anthropic
-Advanced practical certification on building real AI-powered development workflows with Claude Code.  [oai_citation:3‡certificate-fo7nqykx6fqh-1778026781.pdf](sediment://file_00000000af34720aa608af89e1e67228)
+Advanced practical certification on building real AI-powered development workflows with Claude Code.  
 
 ### Full Stack Web Developer — Aulab Hackademy
 400-hour intensive training program covering:
@@ -156,7 +156,7 @@ Advanced practical certification on building real AI-powered development workflo
 - Laravel Framework
 - Agile Methodologies
 
-Completed successfully on July 14, 2025.  [oai_citation:4‡ktpkx6hh_1761651343456.pdf](sediment://file_00000000915c720a9fa5b8142ad0d67e)
+Completed successfully on July 14, 2025.  
 
 ---
 
